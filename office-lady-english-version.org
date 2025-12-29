@@ -5,85 +5,68 @@
 
 The main content *must* appear within the frame. The details of the main content should be as rich as possible.
 
-** Expression
+** Subject
 
-seductive, languid
+A mature Japanese office lady.
 
-** Cup Size
+*** Hair
 
-E-cup
+-  Her hair is black with brown highlights.
+-  She parts her hair in the middle and ties it back.
 
-** Breast Shape
+*** Expression
 
-round
+She had a suggestive gentle expression on her face.
+
+*** Cup Size
+
+She wears an G cup.
+
+*** Skin
+
+Her skin is rosy and glowing.
+
+*** Lips
+
+Her lips are very thin.
+
+*** Eyes
+
+She has a pair of phoenix eyes.
+
+*** Freckles
+
+She has freckles on her face.
+
+*** Accessories
+
+- She wears a very thin silver necklace and a petite wristwatch.
+- She wears a ring on the ring finger of her left hand.
+- A blue lanyard work badge hung around her neck.
+
+*** Shoulders
+
+Her shoulders are very narrow.
+
+*** Tops
+
+She wears a sleeveless high-neck ribbed sweater.
+
+*** Nails
+
+She gets a simple manicure and paints her nails light pink.
 
 * Secondary Content
 
 To highlight the main content, the finer details of secondary content can be appropriately trimmed.
 
-** Skin
-
-rosy, glossy
-
-** Lips
-
-thin lips
-
 ** Head Pose
 
 tilting head
 
-** Hair Color
-
-dark brown
-
-** Hairstyle
-
-She parts her hair in the middle and ties it back.
-
-** Eye Shape
-
-phoenix eyes
-
-** Facial Pigmentation Spots
-
-freckles
-
-** Accessories
-
-thin silver necklace, petite wristwatch, blue lanyard badge, Wearing a ring on the ring finger of the left hand
-
-** Shoulders
-
-Shoulders are very narrow.
-
-** Figure
-
-slender
-
-** Tops
-
-sleeveless high-neck ribbed knit sweater
-
 ** Hand Pose
 
 arms crossed
-
-** Nail
-
-simple nail art
-
-** Nationality
-
-japanese
-
-** Race
-
-yellow race, mongoloid race, east asian people
-
-** Identity
-
-office lady, young married woman
 
 ** Time
 
