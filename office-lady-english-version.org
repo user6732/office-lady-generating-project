@@ -1,9 +1,10 @@
 #+title: Office Lady
 #+author: Office Lady Maker
 
-* Subject
+* Subject and Art Style
 
-A mature Japanese office lady
+- A Japanese-style, high-polish illustration of a mature Japanese office lady.
+- This illustration could be a work on Pixiv or a post on Danbooru.
 
 ** Hair
 
@@ -135,10 +136,6 @@ She crosses her arms and tilts her head.
 
 - in the cramped office
 - late at night, darkness filling the windows and interior lights low
-
-* Art Style
-
-A Japanese-style illustration which could be a work on Pixiv or a post on Danbooru.
 
 * Lighting
 
