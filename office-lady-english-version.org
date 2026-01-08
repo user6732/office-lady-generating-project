@@ -1,9 +1,9 @@
 #+title: Office Lady
 #+author: Office Lady Maker
 
-* Subject, Art Style, and Shot Size
+* Subject, Art Style, Shot Size, and Shot Angle
 
-- A Japanese-style medium shot illustration of a mature Japanese office lady.
+- A Japanese-style, medium shot, and high angle illustration of a mature Japanese office lady.
 - This illustration looks like a typical Pixiv work or a Danbooru post.
 
 ** Hair
@@ -31,10 +31,6 @@ She wears hair tendrils.
 *** Hair Shine
 
 She has super shiny hair.
-
-** Expression
-
-She has a suggestive expression that ideas are brewing.
 
 ** Cup Size
 
@@ -128,9 +124,9 @@ She puts on lipstick.
 
 Her figure is slender.
 
-* Action
+* Expression and Action
 
-She crosses her arms and tilts her head.
+She crosses her arms, pushing up her breasts, and looks up to size up the viewer in front of her, considering whether or not to have a one-night stand.
 
 * Enviornment
 
